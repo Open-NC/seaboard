@@ -1,6 +1,6 @@
-title: City of San Diego Open Data Portal
+title: Open NC Open Data Portal
 greeting:
-description: Empowering San Diegans by making data usable.
+description: Empowering the people of North Carolina by making data usable.
 baseurl:
 
 share_img: /assets/img/sdlogo_share.jpg
@@ -20,27 +20,26 @@ lsi: false
 limit_posts: 1
 
 # Dataset Previews
-ds_preview_url: https://gwf7vwruf1.execute-api.us-east-1.amazonaws.com/dev/dataset/preview
+ds_preview_url: 
 default_preview_rows: 15
 
 
 ## Neek
 neek:
     enabled: false
-    project_id: 58ae0bd08db53dfda8a88883
-    wkey: CBDFBC82DD8C99133FD1D00206D97E9A9B0769F4165E76D0BAEE44C161D31F8654A75803E4B92605902F95C3E1BB66326E66C2AEF653DE1D22A734BBF5F286A301C659F5240F78F47DA6899FBFF280080011DF0DDD0ADE14D88F5DFF5626C663
-
+    project_id: 
+    wkey: 
 
 github:
-    owner_name: MrMaksimize
-    repo_org: cityofsandiego
+    owner_name: christhedba
+    repo_org: open-nc
     repo_branch: master
     project_title: seaboard
 
 social:
   - icon:	twitter
-    url:	https://twitter.com/mrmaksimize
-    desc: Follow Quandary on twitter
+    url:	https://twitter.com/christhedba
+    desc: Follow me on twitter
     share_url: http://twitter.com/share
     share_title: ?text=
     share_link: "&amp;url="
